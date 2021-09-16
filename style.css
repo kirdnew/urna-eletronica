@@ -140,13 +140,12 @@ body{
     margin-top: 4px;
 }
 .d1-image img{
-    width: 100%;
+    width: 100%
 }
 .d1-image.small{
     width: 85%;
     font-size: 12px;
 }
-
 
 
 .d-2{
@@ -156,6 +155,18 @@ body{
     border-top: 2px solid black;
 }
 
+.aviso-grande{
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 5px;
+}
 
-
+.aviso-gigante{
+    font-size: 70px;
+    font-weight: bold;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
